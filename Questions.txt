@@ -1,0 +1,17 @@
+1 - Liste des ouvrages de la biblihotèque
+2 - Liste des membres qui ont déja emprunté un ouvrage
+3 - Liste des membres qui ont emprunté un ouvrage depuis plus de deux semaines
+4 - Nombre d'ouvrages par catégorie
+5 - Durée moyenne d'emprunt par membre
+6 - Durée moyenne d'emprunt tous membres confondus
+7 - Durée moyenne de l'emprunt en fonction du genre
+8 - Liste des ouvrages loués plus de 10 fois
+9 - Liste de tous les ouvrages avec à côté de chacun les numéros d'exemplaires.
+10 - Nombre d'ouvrages empruntés par membres depuis toujours
+11 - Nombre d'ouvrages non rendu empruntés par membres
+12 - Nombre d'emprunts par ouvrage
+13 - Liste des membres triée par ordre alphabétique
+14 - Liste des exemplaires jamais empruntés au cours des trois derniers mois
+15 - Liste des ouvrages pour lesquels il n'existe pas d'exemplaires à l'état neuf
+16 - Liste de tous les ouvrages qui contiennent le mot "mer"
+
